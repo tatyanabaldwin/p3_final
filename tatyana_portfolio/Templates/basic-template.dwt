@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Through my Lens</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/zkb7hno.css">
+<link rel="stylesheet" href="https://use.typekit.net/zkb7hno.css">
+<link rel="stylesheet" href="https://use.typekit.net/zkb7hno.css">
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+</style>
+
+<!-- TemplateEndEditable -->
+	
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	<li><a href="../pages/about.html">About</a></li>
+	<li><a href="../pages/blog.html">Blog</a></li>
+	<li><a href="../pages/gallery.html">Gallery</a></li>
+	<li><a href="../pages/contact.html">Contact</a></li>
+		
+	  
+	</ul>
+	
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I am a student, a friend, daughter, and viewer of television who enjoys using all that I see and read on television to understand the complexities of life through films.</h3>
+	<h3>Join me as I use view the world one show at a time</h3>
+    <h3>by Tatyana B</h3>
+	</aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
